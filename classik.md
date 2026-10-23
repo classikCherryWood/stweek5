@@ -1,1 +1,1 @@
-now this file has been edited by jeff-uob!!
+I really want to trigger the conflict message from `git pull` !! (by classik)
